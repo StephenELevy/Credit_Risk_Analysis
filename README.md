@@ -16,8 +16,6 @@
 
 ## Deliverables:
 
-* Deliverables:
-
 * Deliverables 1: 
     * Oversample minority class with RandomOverSampler (used as first input to logistical regression).
     * Oversample minority class with SMOTE (used as second input to logistical regression).
